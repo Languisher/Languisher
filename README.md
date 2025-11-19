@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently an undergraduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [École nationale supérieure de techniques avancées](https://www.ensta.fr/). I am interested in LLM Infrastructure.
+I'm currently a graduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [École nationale supérieure de techniques avancées](https://www.ensta.fr/), where I focus on LLM infrastructure and systems for large-scale AI.
